@@ -6,3 +6,7 @@
     font-family: "IBMPlexMono-BoldItalic";
     src: url("../fonts/IBMPlexMono-BoldItalic.ttf");
 }
+@font-face {
+    font-family:"IBMPlexMono-Bold" ;
+    src: url("../fonts/IBMPlexMono-Bold.ttf");
+}

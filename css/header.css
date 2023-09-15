@@ -1,0 +1,17 @@
+header {
+    float: left;
+    font-family: "IBMPlexMono-BoldItalic", Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+header img {
+     width: 200px;
+}
+header h1 {
+    color: var(--primary-color);
+    font-size: 40px;
+    margin: 0;
+    text-shadow: 2px 2x 5px #ccc;
+}
